@@ -2,7 +2,7 @@
 
 ## Would you run production on Docker?
 <br>
-![Image](./assets/img/docker.png)
+![Image](./assets/docker.png)
 <br>
 James Anderson
 <br>
@@ -48,8 +48,9 @@ Persist data volumes
 * Test environments are uptodate
 * Reduced patching
 * Horizontal scaling for read-only data
+* Easier HA / DR setup
 
---
+---
 
 ## To be Production ready, we need the following:
 
@@ -98,7 +99,9 @@ Persist data volumes
 * Cloud Container Service
 	* OpenShift + clustered storage 
 * Windows Container
+	* Hyper-V container for extra isolation
 * Helm
+* Secrets - sa password
 
 ---
 
