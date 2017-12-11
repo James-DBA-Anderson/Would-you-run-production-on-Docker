@@ -24,6 +24,26 @@ James@TheSQLPeople.com
 
 ---
 
+## Me
+
+* Windows sysadmin
+* SQL Server DBA
+* Small use of Linux
+
+---
+
+![Image](./assets/NadellaGatesBallmer.jpg)
+
+---
+
+## Microsoft Loves Docker
+
+* Roughly 4 years ago MS announced a partnership with Docker
+* Windows Server 2016 brings Windows Containers
+* SQL Server on Linux
+
+---
+
 ## Staeful systems in emtheral containers?
 
 Persist data volumes
