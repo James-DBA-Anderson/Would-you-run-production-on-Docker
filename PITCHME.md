@@ -48,15 +48,14 @@ James@TheSQLPeople.com
 
 ---
 
-## Staeful systems in emtheral containers?
+## Staeful systems in ephemeral containers?
 
-Persist data volumes
 
 ---
 
 ## Yes, it's good for dev and test
 
-<br>Dynamic Environments<!-- .element: class="fragment" -->
+Dynamic Environments<!-- .element: class="fragment" -->
 
 <br>Platform Agnostic<!-- .element: class="fragment" -->
 
@@ -68,17 +67,16 @@ Persist data volumes
 
 ## Why would we use Docker in Production?
 
-* Dynamic environments
 * Test environments are uptodate
 * Reduced patching
-* Horizontal scaling for read-only data
 * Easier HA / DR setup
+* Horizontal scaling for read-only data
 
 ---
 
-## To be Production ready, we need the following:
+## Production ready
 
-* Data persistance	
+* Data persistance
 * Security
 * High Availability
 * Disaster Recovery
@@ -102,14 +100,6 @@ Persist data volumes
 
 ---
 
-## Storage
-
-* Clusterd
-* Cross-site Replication
-* Storage Snapshots?
-
----
-
 ## Custom Images
 
 * Required Features Enabled
@@ -126,9 +116,6 @@ Postgres and Crunchy Data
 
 ![Image](./assets/CrunchyDataSolutions.png)<!-- .element: class="fragment" -->
 
-
-
-
 ---
 
 ## So, How Would I Do It?
@@ -136,9 +123,55 @@ Postgres and Crunchy Data
 * Cloud Container Service
 	* OpenShift + clustered storage 
 * Windows Container
-	* Hyper-V container for extra isolation
+	
 * Helm
+
+
+---
+
+## Data Persistance
+
+* Clusterd storage
+* Cross-site Replication
+* Storage Snapshots?
+
+---
+
+## Security
+
+<br>
 * Secrets - sa password
+<br>
+* Hyper-V container for extra isolation
+
+---
+
+## High Availability
+
+<br>
+* Orchestration + clustered storage
+<br>
+* Availability Groups
+
+---
+
+## Disaster Recovery
+
+<br>
+* Good ol' log shipping
+
+
+---
+
+## Licensing
+
+---
+
+## Monitoring
+
+---
+
+## Deploying SQL Server updates
 
 ---
 
