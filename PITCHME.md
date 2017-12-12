@@ -1,9 +1,7 @@
 
 
 ## Would you run production on Docker?
-<br>
 ![Image](./assets/docker.png)
-<br>
 James Anderson
 <br>
 www.TheDatabaseAvenger.com
