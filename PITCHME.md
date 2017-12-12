@@ -46,7 +46,7 @@ James@TheSQLPeople.com
 
 ## SQL Server on Docker
 
-![Video](./assets/img/Turbine.gif)<!-- .element: class="fragment" -->
+![Video](./assets/Turbine.gif)<!-- .element: class="fragment" -->
 
 ---
 
