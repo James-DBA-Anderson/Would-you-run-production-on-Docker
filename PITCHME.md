@@ -112,7 +112,7 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 I'd look to see how the open source world is doing it<!-- .element: class="fragment" -->
 
-Postgres and Crunchy Data
+Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ![Image](./assets/CrunchyDataSolutions.png)<!-- .element: class="fragment" -->
 
