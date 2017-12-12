@@ -3,13 +3,20 @@
 ## Would you run production on Docker?
 ![Image](./assets/docker.png)
 <br>
-James Anderson
-<br>
 www.TheDatabaseAvenger.com
 <br>
 @DatabaseAvenger
 <br>
 James@TheSQLPeople.com
+
+---
+
+## Me
+
+* James Anderson
+* Windows sysadmin
+* SQL Server DBA
+* Small use of Linux
 
 ---
 
@@ -20,14 +27,6 @@ James@TheSQLPeople.com
 * How would I do it?
 * Is anyone doing it?
 * What's stopping us?
-
----
-
-## Me
-
-* Windows sysadmin
-* SQL Server DBA
-* Small use of Linux
 
 ---
 
