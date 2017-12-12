@@ -48,7 +48,7 @@ James@TheSQLPeople.com
 
 ## Microsoft Loves Docker
 
-* Roughly 4 years ago MS announced a partnership with Docker
+* Roughly 3 years ago MS announced a partnership with Docker
 * Windows Server 2016 brings Windows Containers
 * SQL Server on Linux
 
@@ -116,7 +116,7 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 * Required Features Enabled
 * Latest Cumalitive Updates Applied
-* 
+* Maintenance Tools Installed
 
 ---
 
@@ -138,6 +138,9 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 	
 * Helm
 
+---
+
+Demo SQL Server deployment
 
 ---
 
@@ -164,6 +167,7 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 * Orchestration + clustered storage
 <br>
 * Availability Groups
+	* Listener?
 
 ---
 
@@ -201,6 +205,8 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 * Older versions of SQL Server
 * Is the app running in Docker?
+* Nextgen VMs
+* Licensing
 * Skilled staff
 
 ---
