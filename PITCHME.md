@@ -11,15 +11,6 @@ James@TheSQLPeople.com
 
 ---
 
-## Me
-
-* James Anderson
-* Windows sysadmin
-* SQL Server DBA
-* Small use of Linux
-
----
-
 ## Agenda
 
 * Is this a good idea?
@@ -30,7 +21,28 @@ James@TheSQLPeople.com
 
 ---
 
+## Me
+
+* James Anderson
+* Windows sysadmin
+* SQL Server DBA
+* Small use of Linux
+
+---
+
 ![Image](./assets/NadellaGatesBallmer.jpg)
+
+---
+
+![Video](./assets/BallmerDevelopers.gif)
+
+---
+
+![Image](./assets/SteveBallmer.jpeg)
+
+---
+
+![Image](./assets/NadellaMSHeartLinux.jpg)
 
 ---
 
@@ -48,7 +60,7 @@ James@TheSQLPeople.com
 
 ---
 
-## Staeful systems in ephemeral containers?
+## Stateful systems in ephemeral containers?
 
 
 ---
