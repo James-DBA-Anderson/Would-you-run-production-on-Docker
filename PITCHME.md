@@ -44,6 +44,12 @@ James@TheSQLPeople.com
 
 ---
 
+## SQL Server on Docker
+
+![Video](./assets/img/Turbine.gif)<!-- .element: class="fragment" -->
+
+---
+
 ## Staeful systems in emtheral containers?
 
 Persist data volumes
@@ -98,14 +104,6 @@ Persist data volumes
 
 ---
 
-## Custom Images
-
-* Required Features Enabled
-* Latest Cumalitive Updates Applied
-* 
-
----
-
 ## Storage
 
 * Clusterd
@@ -114,7 +112,28 @@ Persist data volumes
 
 ---
 
+## Custom Images
+
+* Required Features Enabled
+* Latest Cumalitive Updates Applied
+* 
+
+---
+
 ## How Would I Do It?
+
+I'd look to see how the open source world is doing it<!-- .element: class="fragment" -->
+
+Postgres and Crunchy Data
+
+![Image](./assets/CrunchyDataSolutions.png)<!-- .element: class="fragment" -->
+
+
+
+
+---
+
+## So, How Would I Do It?
 
 * Cloud Container Service
 	* OpenShift + clustered storage 
