@@ -130,6 +130,10 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ---
 
+## Demo SQL Server deployment
+
+---
+
 ## So, How Would I Do It?
 
 * Cloud Container Service
@@ -137,10 +141,6 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 * Windows Container
 	
 * Helm
-
----
-
-Demo SQL Server deployment
 
 ---
 
@@ -208,6 +208,16 @@ Demo SQL Server deployment
 * Nextgen VMs
 * Licensing
 * Skilled staff
+
+---
+
+## One last one from the big man
+
+![Image](./assets/SteveBallmer.jpeg)
+
+---
+
+> "Linux is not in the public domain. Linux is a cancer that attaches itself in an intellectual property sense to everything it touches. That's the way that the license works."
 
 ---
 
