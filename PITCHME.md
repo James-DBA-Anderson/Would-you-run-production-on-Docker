@@ -13,7 +13,7 @@ James@TheSQLPeople.com
 
 ## Agenda
 
-<br> Is this a good idea?
+Is this a good idea?
 
 <br> What do we need?
 
@@ -55,11 +55,11 @@ James@TheSQLPeople.com
 
 ## Microsoft Loves Docker
 
-<br> Roughly 3 years ago MS announced a partnership with Docker
+<br> Roughly 3 years ago MS announced a partnership with Docker<!-- .element: class="fragment" -->
 
-<br> Windows Server 2016 brings Windows Containers
+<br> Windows Server 2016 brings Windows Containers<!-- .element: class="fragment" -->
 
-<br> SQL Server on Linux
+<br> SQL Server on Linux<!-- .element: class="fragment" -->
 
 ---
 
