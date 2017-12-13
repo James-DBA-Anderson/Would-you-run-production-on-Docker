@@ -144,29 +144,21 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ## So, How Would I Do It?
 
-* Cloud Container Service
+Cloud Container Service
 
 Or
 
-* OpenShift + clustered storage 
+OpenShift + clustered storage 
 
 <br>
-* Windows Container
+Windows Container
 
 <br>	
-* Helm
+Helm
 
 ---
 
 ## Is Anyone Doing This?
-
-* dv01
-
-<br>
-* I asked in a few places
-	* Twitter
-	* Hacker News
-	* Reddit
 
 ---
 
@@ -180,7 +172,7 @@ Or
 
 ---
 
-## One last one from the big man
+## Old School Microsoft
 
 ![Image](./assets/SteveBallmer.jpeg)
 
