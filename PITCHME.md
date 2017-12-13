@@ -145,7 +145,10 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 ## So, How Would I Do It?
 
 * Cloud Container Service
-	* OpenShift + clustered storage 
+
+Or
+
+* OpenShift + clustered storage 
 
 <br>
 * Windows Container
