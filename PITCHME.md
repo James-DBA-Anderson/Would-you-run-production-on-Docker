@@ -130,7 +130,7 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ---
 
-![Image](./assets/CrunchyDataSolutions.png)
+![Image](./assets/CrunchyContainers.png)
 
 ---
 
