@@ -81,19 +81,14 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 <br>Concurrent tests on all supported platforms<!-- .element: class="fragment" -->
 
-<br>Package Depdencies<!-- .element: class="fragment" -->
-
 ---
 
 ## Why would we use Docker in Production?
 
-<br> Test environments are uptodate
-
-<br> Reduced patching
-
-<br> Easier HA / DR setup
-
-<br> Horizontal scaling for read-only data
+* Test environments are uptodate
+* Reduced patching
+* Easier HA / DR setup
+* Horizontal scaling for read-only data
 
 ---
 
@@ -135,7 +130,7 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 ## How Would I Do It?
 
-I'd look to see how the open source world is doing it<!-- .element: class="fragment" -->
+How is the open source world is doing it?<!-- .element: class="fragment" -->
 
 Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
