@@ -130,7 +130,7 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ---
 
-## Demo SQL Server deployment
+![Image](./assets/CrunchyDataSolutions.png)
 
 ---
 
@@ -138,56 +138,10 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 * Cloud Container Service
 	* OpenShift + clustered storage 
+<br>
 * Windows Container
 	
 * Helm
-
----
-
-## Data Persistance
-
-* Clusterd storage
-* Cross-site Replication
-* Storage Snapshots?
-
----
-
-## Security
-
-<br>
-* Secrets - sa password
-<br>
-* Hyper-V container for extra isolation
-
----
-
-## High Availability
-
-<br>
-* Orchestration + clustered storage
-<br>
-* Availability Groups
-	* Listener?
-
----
-
-## Disaster Recovery
-
-<br>
-* Good ol' log shipping
-
-
----
-
-## Licensing
-
----
-
-## Monitoring
-
----
-
-## Deploying SQL Server updates
 
 ---
 
