@@ -13,20 +13,20 @@ James@TheSQLPeople.com
 
 ## Agenda
 
-* Is this a good idea?
-* What do we need?
-* How would I do it?
-* Is anyone doing it?
-* What's stopping us?
+<br> Is this a good idea?
+<br> What do we need?
+<br> How would I do it?
+<br> Is anyone doing it?
+<br> What's stopping us?
 
 ---
 
 ## Me
 
-* James Anderson
-* Windows sysadmin
-* SQL Server DBA
-* Small use of Linux
+<br> James Anderson
+<br> Windows sysadmin
+<br> SQL Server DBA
+<br> Small use of Linux
 
 ---
 
@@ -48,9 +48,9 @@ James@TheSQLPeople.com
 
 ## Microsoft Loves Docker
 
-* Roughly 3 years ago MS announced a partnership with Docker
-* Windows Server 2016 brings Windows Containers
-* SQL Server on Linux
+<br> Roughly 3 years ago MS announced a partnership with Docker
+<br> Windows Server 2016 brings Windows Containers
+<br> SQL Server on Linux
 
 ---
 
@@ -61,7 +61,6 @@ James@TheSQLPeople.com
 ---
 
 ## Stateful systems in ephemeral containers?
-
 
 ---
 
@@ -79,10 +78,10 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 ## Why would we use Docker in Production?
 
-* Test environments are uptodate
-* Reduced patching
-* Easier HA / DR setup
-* Horizontal scaling for read-only data
+<br> Test environments are uptodate
+<br> Reduced patching
+<br> Easier HA / DR setup
+<br> Horizontal scaling for read-only data
 
 ---
 
@@ -114,9 +113,9 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 ## Custom Images
 
-* Required Features Enabled
-* Latest Cumalitive Updates Applied
-* Maintenance Tools Installed
+<br> Required Features Enabled
+<br> Latest Cumalitive Updates Applied
+<br> Maintenance Tools Installed
 
 ---
 
@@ -140,7 +139,7 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 	* OpenShift + clustered storage 
 <br>
 * Windows Container
-	
+<br>	
 * Helm
 
 ---
@@ -148,6 +147,7 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 ## Is Anyone Doing This?
 
 * dv01
+<br>
 * I asked in a few places
 	* Twitter
 	* Hacker News
