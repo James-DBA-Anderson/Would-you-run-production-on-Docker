@@ -130,7 +130,7 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 ## How Would I Do It?
 
-How is the open source world is doing it?<!-- .element: class="fragment" -->
+How is the open source world doing it?<!-- .element: class="fragment" -->
 
 Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
