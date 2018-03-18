@@ -209,7 +209,11 @@ Helm
 
 ## Would I do this?
 
-![Image](./assets/SadNadella.jpg)<!-- .element: class="fragment" -->
+---
+
+## No
+
+![Image](./assets/SadNadella.jpg)
 
 ---
 
