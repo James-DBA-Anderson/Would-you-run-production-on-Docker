@@ -90,7 +90,7 @@ Is this a good idea?
 
 <br> Just a process<!-- .element: class="fragment" -->
 
-<br> The Hosts Kernel Matters<!-- .element: class="fragment" -->
+<br> The Host's Kernel Matters<!-- .element: class="fragment" -->
 
 <br> Fast boot<!-- .element: class="fragment" -->
 
