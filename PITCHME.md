@@ -25,15 +25,18 @@ Is this a good idea?
 
 ---
 
-## Me
+## James Anderson
 
-<br> James Anderson
+* 2008 - IT Support 
+<br>
 
-<br> Windows sysadmin
+* 2010 - Windows sysadmin
+<br>
 
-<br> SQL Server DBA
+* 2012 - SQL Server DBA
+<br>
 
-<br> Small use of Linux
+* Side projects: Linux, programming, docker...
 
 ---
 
@@ -124,7 +127,7 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 ---
 
-## Production ready
+## Production Requirements
 
 * Data persistance
 * Security
@@ -183,12 +186,24 @@ OpenShift + clustered storage
 <br>
 Windows containers 
 
-<br>	
+
 Helm
 
 ---
 
 ## Is Anyone Doing This?
+
+---
+
+## Production Ready?
+
+* Data persistance
+* Security
+* High Availability
+* Disaster Recovery
+* Licensing
+* Monitoring
+* Deploying SQL Server updates
 
 ---
 
