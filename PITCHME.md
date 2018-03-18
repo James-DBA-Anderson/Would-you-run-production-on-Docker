@@ -86,13 +86,13 @@ Is this a good idea?
 
 ## Containers in a Nutshell 
 
-Isolation
-Just a process<!-- .element: class="fragment"
-The Host's Kernel Matters<!-- .element: class="fragment" -->
-Fast boot<!-- .element: class="fragment" -->
-Declaritive<!-- .element: class="fragment" -->
-Images<!-- .element: class="fragment" -->
-Oh, and they don't save your data!<!-- .element: class="fragment" -->
+* Isolation
+* Just a process<!-- .element: class="fragment"
+* The Host's Kernel Matters<!-- .element: class="fragment" -->
+* Fast boot<!-- .element: class="fragment" -->
+* Declaritive<!-- .element: class="fragment" -->
+* Images<!-- .element: class="fragment" -->
+* Oh, and they don't save your data!<!-- .element: class="fragment" -->
 
 ---
 
