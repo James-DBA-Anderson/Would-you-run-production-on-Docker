@@ -53,19 +53,19 @@ Is this a good idea?
 
 ---
 
-![Image](./assets/BallmerAndGates.jpeg)
+![Image](./assets/BallmerAndGates.jpg)
 
 ---
 
-![Image](./assets/BallmerClippers.jpeg)
+![Image](./assets/BallmerClippers.jpg)
 
 ---
 
-![Image](./assets/BallmerWindowsPhone.jpeg)
+![Image](./assets/BallmerWindowsPhone.jpg)
 
 ---
 
-![Image](./assets/BallmerSuit.jpeg)
+![Image](./assets/BallmerSuit.jpg)
 
 ---
 
