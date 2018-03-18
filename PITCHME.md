@@ -81,14 +81,13 @@ Is this a good idea?
 
 <br> SQL Server on Linux<!-- .element: class="fragment" -->
 
-
 +++
 
 ## Containers in a Nutshell 
 
-* Isolation
+* Isolation<!-- .element: class="fragment" -->
 * Just a process<!-- .element: class="fragment" -->
-* The Host's Kernel Matters<!-- .element: class="fragment" -->
+* The host's kernel matters<!-- .element: class="fragment" -->
 * Fast boot<!-- .element: class="fragment" -->
 * Declaritive<!-- .element: class="fragment" -->
 * Images<!-- .element: class="fragment" -->
@@ -110,7 +109,7 @@ Is this a good idea?
 
 Dynamic Environments<!-- .element: class="fragment" -->
 
-<br>Platform Agnostic<!-- .element: class="fragment" -->
+<br>Platform agnostic<!-- .element: class="fragment" -->
 
 <br>Concurrent tests on all supported platforms<!-- .element: class="fragment" -->
 
@@ -118,10 +117,10 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 ## Why would we use Docker in Production?
 
-* Test environments are uptodate
-* Reduced patching
-* Easier HA / DR setup
-* Horizontal scaling for read-only data
+* Environment maintenance<!-- .element: class="fragment" -->
+* Reduced patching<!-- .element: class="fragment" -->
+* Easier HA / DR setup?<!-- .element: class="fragment" -->
+* Horizontal scaling for read-only data<!-- .element: class="fragment" -->
 
 ---
 
@@ -153,11 +152,11 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 ## Custom Images
 
-<br> Required Features Enabled
+<br> Required Features Enabled<!-- .element: class="fragment" -->
 
-<br> Latest Cumalitive Updates Applied
+<br> Latest Cumalitive Updates Applied<!-- .element: class="fragment" -->
 
-<br> Maintenance Tools Installed
+<br> Maintenance Tools Installed<!-- .element: class="fragment" -->
 
 ---
 
@@ -167,8 +166,6 @@ How is the open source world doing it?<!-- .element: class="fragment" -->
 
 Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
-![Image](./assets/CrunchyDataSolutions.png)<!-- .element: class="fragment" -->
-
 ---
 
 ![Image](./assets/CrunchyContainers.png)
@@ -177,14 +174,14 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ## So, How Would I Do It?
 
-Cloud Container Service
+Cloud container cervice
 
 Or
 
 OpenShift + clustered storage 
 
 <br>
-Windows Container
+Windows containers 
 
 <br>	
 Helm
@@ -197,11 +194,11 @@ Helm
 
 ## What's Stopping Us?
 
-* Older versions of SQL Server
-* Is the app running in Docker?
-* Nextgen VMs
-* Licensing
-* Skilled staff
+* Older versions of SQL Server<!-- .element: class="fragment" -->
+* Is the app running in Docker?<!-- .element: class="fragment" -->
+* Nextgen VMs<!-- .element: class="fragment" -->
+* Licensing<!-- .element: class="fragment" -->
+* Skilled staff<!-- .element: class="fragment" -->
 
 ---
 
