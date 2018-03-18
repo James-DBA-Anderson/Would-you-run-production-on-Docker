@@ -45,7 +45,27 @@ Is this a good idea?
 
 ---
 
+![Image](./assets/BallmerTongue.jpg)
+
+---
+
 ![Image](./assets/SteveBallmer.jpeg)
+
+---
+
+![Image](./assets/BallmerAndGates.jpeg)
+
+---
+
+![Image](./assets/BallmerClippers.jpeg)
+
+---
+
+![Image](./assets/BallmerWindowsPhone.jpeg)
+
+---
+
+![Image](./assets/BallmerSuit.jpeg)
 
 ---
 
