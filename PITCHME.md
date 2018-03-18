@@ -81,6 +81,25 @@ Is this a good idea?
 
 <br> SQL Server on Linux<!-- .element: class="fragment" -->
 
+
++++
+
+## Containers in a Nutshell 
+
+<br> Isolation
+
+<br> Just a process<!-- .element: class="fragment" -->
+
+<br> The Hosts Kernel Matters<!-- .element: class="fragment" -->
+
+<br> Fast boot<!-- .element: class="fragment" -->
+
+<br> Declaritive<!-- .element: class="fragment" -->
+
+<br> Images<!-- .element: class="fragment" -->
+
+<br> Oh, and they don't save your data!<!-- .element: class="fragment" -->
+
 ---
 
 ## SQL Server on Docker
