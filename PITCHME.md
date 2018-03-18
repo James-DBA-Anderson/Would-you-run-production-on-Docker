@@ -177,7 +177,7 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ## So, How Would I Do It?
 
-Cloud container cervice
+Cloud container service
 
 Or
 
@@ -207,8 +207,16 @@ Helm
 
 ---
 
+## Would I do this?
+
+![Image](./assets/SadNadella.jpg)<!-- .element: class="fragment" -->
+
+---
+
 ## What's Stopping Us?
 
+* SQL Server is a monolith<!-- .element: class="fragment" -->
+* Tooling<!-- .element: class="fragment" -->
 * Older versions of SQL Server<!-- .element: class="fragment" -->
 * Is the app running in Docker?<!-- .element: class="fragment" -->
 * Nextgen VMs<!-- .element: class="fragment" -->
