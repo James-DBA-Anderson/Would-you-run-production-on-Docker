@@ -1,7 +1,7 @@
 
 
 ## Would you run production on Docker?
-![Image](./assets/docker.png)
+![Image](./assets/md/assets/docker.png)
 <br>
 www.TheDatabaseAvenger.com
 <br>
@@ -13,15 +13,12 @@ James@TheSQLPeople.com
 
 ## Agenda
 
-Is this a good idea?
-
-<br> What do we need?
-
-<br> How would I do it?
-
-<br> Is anyone doing it?
-
-<br> What's stopping us?
+* Microsft is changing
+* Is Docker + SQL Server a good idea?
+* What do we need?
+* How would I do it?
+* Is anyone doing it?
+* What's stopping us?
 
 ---
 
@@ -30,63 +27,68 @@ Is this a good idea?
 * 2008 - IT Support 
 <br>
 
-* 2010 - Windows sysadmin
+* 2010 - Windows Sys Admin
 <br>
 
 * 2012 - SQL Server DBA
 <br>
 
-* Side projects: Linux, programming, docker...
+* 2017 - Data Engineer
+<br>
+
+* Side projects: Machine Learning, Python...
 
 ---
 
-![Image](./assets/NadellaGatesBallmer.jpg)
+![Image](./assets/md/assets/NadellaGatesBallmer.jpg)
 
 ---
 
-![Video](./assets/BallmerDevelopers.gif)
+![Image](./assets/md/assets/BallmerDevelopers.gif)
 
 ---
 
-![Image](./assets/BallmerTongue.jpg)
+![Image](./assets/md/assets/BallmerTongue.jpg)
 
 ---
 
-![Image](./assets/SteveBallmer.jpeg)
+![Image](./assets/md/assets/SteveBallmer.jpeg)
 
 ---
 
-![Image](./assets/BallmerAndGates.jpg)
+![Image](./assets/md/assets/BallmerAndGates.jpg)
 
 ---
 
-![Image](./assets/BallmerClippers.jpg)
+![Image](./assets/md/assets/BallmerSuit.jpg)
 
 ---
 
-![Image](./assets/BallmerWindowsPhone.jpg)
+![Image](./assets/md/assets/BallmerClippers.jpg)
 
 ---
 
-![Image](./assets/BallmerSuit.jpg)
+![Image](./assets/md/assets/BallmerWindowsPhone.jpg)
 
 ---
 
-![Image](./assets/NadellaMSHeartLinux.jpg)
+![Image](./assets/md/assets/NadellaMSHeartLinux.jpg)
 
 ---
 
 ## Microsoft Loves Docker
 
-<br> Roughly 3 years ago MS announced a partnership with Docker<!-- .element: class="fragment" -->
+<br> 4 years ago MS announced a partnership with Docker<!-- .element: class="fragment" -->
 
 <br> Windows Server 2016 brings Windows Containers<!-- .element: class="fragment" -->
 
-<br> SQL Server on Linux<!-- .element: class="fragment" -->
+<br> SQL Server 2017 on Linux<!-- .element: class="fragment" -->
+
+<br> MS & Docker announce Cloud Native Application Bundle<!-- .element: class="fragment" -->
 
 +++
 
-## Containers in a Nutshell 
+## Containers in a Nutshell
 
 * Isolation<!-- .element: class="fragment" -->
 * Just a process<!-- .element: class="fragment" -->
@@ -100,7 +102,7 @@ Is this a good idea?
 
 ## SQL Server on Docker
 
-![Video](./assets/PinkCar.gif)<!-- .element: class="fragment" -->
+![Image](./assets/md/assets/PinkCar.gif)
 
 ---
 
@@ -124,6 +126,7 @@ Dynamic Environments<!-- .element: class="fragment" -->
 * Reduced patching<!-- .element: class="fragment" -->
 * Easier HA / DR setup?<!-- .element: class="fragment" -->
 * Horizontal scaling for read-only data<!-- .element: class="fragment" -->
+* To be cool<!-- .element: class="fragment" -->
 
 ---
 
@@ -146,10 +149,9 @@ Dynamic Environments<!-- .element: class="fragment" -->
 ## Orchestration
 
 * Swarm
-* Mesosphere
-* OpenShift
 * Kubernetes
-* Cloud Container Services 
+* OpenShift
+* Cloud Container Services
 
 ---
 
@@ -157,9 +159,11 @@ Dynamic Environments<!-- .element: class="fragment" -->
 
 <br> Required Features Enabled<!-- .element: class="fragment" -->
 
-<br> Latest Cumalitive Updates Applied<!-- .element: class="fragment" -->
+<br> Antivirus<!-- .element: class="fragment" --> 
 
-<br> Maintenance Tools Installed<!-- .element: class="fragment" -->
+<br> Monitoring agents<!-- .element: class="fragment" -->
+
+<br> Maintenance Tools<!-- .element: class="fragment" -->
 
 ---
 
@@ -171,23 +175,23 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ---
 
-![Image](./assets/CrunchyContainers.png)
+![Image](./assets/md/assets/CrunchyContainers.png)
 
 ---
 
-## So, How Would I Do It?
+## How Would I Like To Do It?
 
-Cloud container service
+Cloud container service<!-- .element: class="fragment" -->
 
-Or
+Or<!-- .element: class="fragment" -->
 
-OpenShift + clustered storage 
-
+OpenShift + clustered storage<!-- .element: class="fragment" -->
 <br>
-Windows containers 
 
+Windows containers<!-- .element: class="fragment" -->
+<br>
 
-Helm
+Helm<!-- .element: class="fragment" -->
 
 ---
 
@@ -213,7 +217,7 @@ Helm
 
 ## No
 
-![Image](./assets/SadNadella.jpg)
+![Image](./assets/md/assets/SadNadella.jpg)
 
 ---
 
@@ -231,7 +235,7 @@ Helm
 
 ## Old School Microsoft
 
-![Image](./assets/SteveBallmer.jpeg)
+![Image](./assets/md/assets/SteveBallmer.jpeg)
 
 ---
 
