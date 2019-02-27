@@ -13,7 +13,7 @@ James@TheSQLPeople.com
 
 ## Agenda
 
-* Microsft is changing
+* Microsoft is changing
 * Is Docker + SQL Server a good idea?
 * What do we need?
 * How would I do it?
