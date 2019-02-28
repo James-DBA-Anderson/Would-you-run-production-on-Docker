@@ -121,7 +121,8 @@ Dynamic Test Environments!<!-- .element: class="fragment" -->
 
 * Environment maintenance<!-- .element: class="fragment" -->
 * Reduced patching<!-- .element: class="fragment" -->
-* Easier HA / DR setup?<!-- .element: class="fragment" -->
+* One tool to rule them all<!-- .element: class="fragment" -->
+* Easier HA<!-- .element: class="fragment" -->
 * Horizontal scaling for read-only data<!-- .element: class="fragment" -->
 
 ---
@@ -144,9 +145,9 @@ Dynamic Test Environments!<!-- .element: class="fragment" -->
 
 ## Orchestration
 
-* Swarm
 * Kubernetes
 * OpenShift
+* Swarm
 * Cloud Container Services
 
 ---
@@ -193,8 +194,6 @@ OpenShift + clustered storage<!-- .element: class="fragment" -->
 Windows containers<!-- .element: class="fragment" -->
 <br>
 
-Helm<!-- .element: class="fragment" -->
-
 ---
 
 ## Production Ready?
@@ -225,7 +224,6 @@ Helm<!-- .element: class="fragment" -->
 * Tooling<!-- .element: class="fragment" -->
 * Older versions of SQL Server<!-- .element: class="fragment" -->
 * Is the app running in Docker?<!-- .element: class="fragment" -->
-* Nextgen VMs<!-- .element: class="fragment" -->
 * Licensing<!-- .element: class="fragment" -->
 * Skilled staff<!-- .element: class="fragment" -->
 
