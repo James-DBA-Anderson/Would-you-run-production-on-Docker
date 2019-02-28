@@ -1,7 +1,6 @@
 
-
 ## Would you run production on Docker?
-![Image](./assets/md/assets/docker.png)
+![Image](./assets/img/docker.png)
 <br>
 www.TheDatabaseAvenger.com
 <br>
@@ -40,39 +39,39 @@ James@TheSQLPeople.com
 
 ---
 
-![Image](./assets/md/assets/NadellaGatesBallmer.jpg)
+![Image](./assets/img/NadellaGatesBallmer.jpg)
 
 ---
 
-![Image](./assets/md/assets/BallmerDevelopers.gif)
+![Image](./assets/img/BallmerDevelopers.gif)
 
 ---
 
-![Image](./assets/md/assets/BallmerTongue.jpg)
+![Image](./assets/img/BallmerTongue.jpg)
 
 ---
 
-![Image](./assets/md/assets/SteveBallmer.jpeg)
+![Image](./assets/img/SteveBallmer.jpeg)
 
 ---
 
-![Image](./assets/md/assets/BallmerAndGates.jpg)
+![Image](./assets/img/BallmerAndGates.jpg)
 
 ---
 
-![Image](./assets/md/assets/BallmerSuit.jpg)
+![Image](./assets/img/BallmerSuit.jpg)
 
 ---
 
-![Image](./assets/md/assets/BallmerClippers.jpg)
+![Image](./assets/img/BallmerClippers.jpg)
 
 ---
 
-![Image](./assets/md/assets/BallmerWindowsPhone.jpg)
+![Image](./assets/img/BallmerWindowsPhone.jpg)
 
 ---
 
-![Image](./assets/md/assets/NadellaMSHeartLinux.jpg)
+![Image](./assets/img/NadellaMSHeartLinux.jpg)
 
 ---
 
@@ -102,7 +101,7 @@ James@TheSQLPeople.com
 
 ## SQL Server on Docker
 
-![Image](./assets/md/assets/PinkCar.gif)
+![Image](./assets/img/PinkCar.gif)
 
 ---
 
@@ -177,7 +176,7 @@ Postgres and Crunchy Data<!-- .element: class="fragment" -->
 
 ---
 
-![Image](./assets/md/assets/CrunchyContainers.png)
+![Image](./assets/img/CrunchyContainers.png)
 
 ---
 
@@ -219,7 +218,7 @@ Helm<!-- .element: class="fragment" -->
 
 ## No
 
-![Image](./assets/md/assets/SadNadella.jpg)
+![Image](./assets/img/SadNadella.jpg)
 
 ---
 
@@ -237,7 +236,7 @@ Helm<!-- .element: class="fragment" -->
 
 ## Old School Microsoft
 
-![Image](./assets/md/assets/SteveBallmer.jpeg)
+![Image](./assets/img/SteveBallmer.jpeg)
 
 ---
 
