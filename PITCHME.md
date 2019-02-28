@@ -13,10 +13,10 @@ James@TheSQLPeople.com
 ## Agenda
 
 * Microsoft is changing
-* Is Docker + SQL Server a good idea?
-* What do we need?
-* How would I do it?
+* Is SQL Server on Docker a good idea?
+* Production Requirements
 * Is anyone doing it?
+* How would I do it?
 * What's stopping us?
 
 ---
@@ -85,7 +85,7 @@ James@TheSQLPeople.com
 
 <br> MS & Docker announce Cloud Native Application Bundle<!-- .element: class="fragment" -->
 
-+++
+---
 
 ## Containers in a Nutshell
 
@@ -99,23 +99,21 @@ James@TheSQLPeople.com
 
 ---
 
+## Stateful systems in ephemeral containers?
+
+---
+
 ## SQL Server on Docker
 
 ![Image](./assets/img/PinkCar.gif)
 
 ---
 
-## Stateful systems in ephemeral containers?
-
----
-
 ## Yes, it's good for dev and test
 
-Dynamic Environments<!-- .element: class="fragment" -->
+Isolation<!-- .element: class="fragment" -->
 
-<br>Platform agnostic<!-- .element: class="fragment" -->
-
-<br>Concurrent tests on all supported platforms<!-- .element: class="fragment" -->
+Dynamic Test Environments!<!-- .element: class="fragment" -->
 
 ---
 
@@ -125,7 +123,6 @@ Dynamic Environments<!-- .element: class="fragment" -->
 * Reduced patching<!-- .element: class="fragment" -->
 * Easier HA / DR setup?<!-- .element: class="fragment" -->
 * Horizontal scaling for read-only data<!-- .element: class="fragment" -->
-* To be cool<!-- .element: class="fragment" -->
 
 ---
 
@@ -137,7 +134,7 @@ Dynamic Environments<!-- .element: class="fragment" -->
 * Disaster Recovery
 * Licensing
 * Monitoring
-* Deploying SQL Server updates
+* Patching
 
 ---
 
@@ -163,6 +160,10 @@ Dynamic Environments<!-- .element: class="fragment" -->
 <br> Monitoring agents<!-- .element: class="fragment" -->
 
 <br> Maintenance Tools<!-- .element: class="fragment" -->
+
+---
+
+## Is Anyone Doing This?
 
 ---
 
@@ -196,10 +197,6 @@ Helm<!-- .element: class="fragment" -->
 
 ---
 
-## Is Anyone Doing This?
-
----
-
 ## Production Ready?
 
 * Data persistance
@@ -208,7 +205,7 @@ Helm<!-- .element: class="fragment" -->
 * Disaster Recovery
 * Licensing
 * Monitoring
-* Deploying SQL Server updates
+* Patching
 
 ---
 
