@@ -6,4 +6,4 @@ With the advent of Windows containers and SQL Server on Linux, the options for r
 
 We all know that docker is great for dev testing and stateless apps, but would you run your production SQL Server on it? 
 
-It sounds crazy to run your data tier in ethemeral containers, but I'll discuss the reasons why this might be a good idea if we can figure out the following challenges: Data persistance, Security, High Availability, Licensing Monitoring and Deploying SQL Server updates
+It sounds crazy to run your data tier in ephemeral containers, but I'll discuss the reasons why this might be a good idea if we can figure out the following challenges: Data persistence, Security, High Availability, Licensing Monitoring and Deploying SQL Server updates
