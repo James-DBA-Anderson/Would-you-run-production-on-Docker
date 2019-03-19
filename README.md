@@ -1,6 +1,6 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/James-DBA-Anderson/SQL-Server-And-Continuous-Integration/master?grs=github&t=black)
 
-***SQL Server & Continuous Integration***
+***Would You Run Production SQL Server on Docker***
 
 With the advent of Windows containers and SQL Server on Linux, the options for running SQL Server are growing. Should you run SQL Server on physical machines, virtualised, in the cloud or do you get with the cool kids and run it on docker?
 
